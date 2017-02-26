@@ -1,0 +1,8 @@
+title: BanglaKit (বাংলা কিট)
+description: working with Bangla, got easier
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
